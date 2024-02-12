@@ -1,6 +1,0 @@
-/Users/whuffman/Desktop/build/CMakeFiles/Main.dir
-/Users/whuffman/Desktop/build/CMakeFiles/edit_cache.dir
-/Users/whuffman/Desktop/build/CMakeFiles/rebuild_cache.dir
-/Users/whuffman/Desktop/build/src/lib/CMakeFiles/Lib.dir
-/Users/whuffman/Desktop/build/src/lib/CMakeFiles/edit_cache.dir
-/Users/whuffman/Desktop/build/src/lib/CMakeFiles/rebuild_cache.dir
