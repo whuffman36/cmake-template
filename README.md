@@ -1,0 +1,1 @@
+Simple template to start a C/C++ project with CMake
